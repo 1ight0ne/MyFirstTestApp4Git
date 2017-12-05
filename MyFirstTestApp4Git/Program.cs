@@ -10,6 +10,7 @@ namespace MyFirstTestApp4Git
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello! This is my first app for Git extension");
         }
     }
 }
